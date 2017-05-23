@@ -1,0 +1,64 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/outluch/code/infolek/typeahead.js/src/" . "typeahead/")
+ ("/Users/outluch/code/infolek/typeahead.js/" . "src/")
+ ("/Users/outluch/.emacs.d/" . "ac-coffee/")
+ ("/Users/outluch/code/infolek/renewsite/server/" . "caches/")
+ ("/Users/outluch/code/infolek/renewsite/" . "server/")
+ ("/Users/outluch/code/infolek/" . "typeahead.js/")
+ ("/Users/outluch/code/" . "infolek/")
+ ("/Users/outluch/" . "code/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/outluch/code/infolek/typeahead.js/src/typeahead/"
+ "/Users/outluch/"
+ "/Users/outluch/code/infolek/typeahead.js/src/"
+ "/Users/outluch/code/infolek/typeahead.js/"
+ "/Users/outluch/.emacs.d/"
+ "/Users/outluch/code/infolek/renewsite/server/"
+ "/Users/outluch/code/infolek/renewsite/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "css.js"
+ "fdsfds"
+ "typeahead.js"
+ ".DS_Store"
+ "CHANGELOG.md"
+ "init.el"
+ "app.coffee"
+ "Gruntfile.coffee"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/outluch/" (21227 36320 0 0) "футболки/" "Фотки/" "Новая папка/" "мото/" "Медиатека iPhoto/" "Контакты - 17.10.2013.abbu/" "банкролл.xlsx" "артем пбк и еще 29 .vcf" "what.xGestures.plist" "wallpapers/" "ViberDownloads/" "update.txt" "TUTORIAL.ru" "tmp/" "study/" "skypetrash/" "screenshots/" "Public/" "projects/" "Pictures/" "Parallels/" "P5JavaClientSettings/" "Music/" "Movies/" "log.txt" "Little Snitch - 22.10.13.xpl" "Library/" "ldid" "dropbox/" "Downloads/" "Documents/" "disable_activation_osx" "Desktop/" "code/" "BTSync/" "books/" "Applications/" "Addresssss/" "_backups/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-MacBook Pro - outluch-5.0.2" ".yandex/" ".Trash/" ".ssh/" ".smex-items" ".Prismatik/" ".P5/" ".oh-my-zsh/" ".npm/" ".node-gyp/" ".mongorc.js" ".meteorite/" ".meteor/" ".local/" ".ido.last~" ".ido.last" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".dbshell" ".config/" ".com.briangonzalez.org.FontPrep.version" ".com.briangonzalez.org.FontPrep.pid" ".coffee_history" ".cocoapods/" ".CFUserTextEncoding" ".cache/" ".bash_history" ".adobe/" "#fdsfds#" "../" "./")
+
+ ("/Users/outluch/code/infolek/renewsite/server/" (21222 38872 0 0) "views/" "utils/" "index.js" "controllers/" "configs/" "caches/" "app.coffee" ".DS_Store" "../" "./")
+
+ ("/Users/outluch/.emacs.d/" (21227 35386 0 0) "saveplace" "init.el~" "init.el" "elpa/" "backupplace/" "auto-save-list/" "ac-comphist.dat" "ac-coffee/" ".mc-lists.el" "#!Users!outluch!code!infolek!typeahead.js!src!typeahead!typeahead.js#" "../" "./")
+
+ ("/Users/outluch/code/infolek/typeahead.js/src/typeahead/" (21227 34408 0 0) "typeahead.js" "section.js" "plugin.js" "input.js" "html.js" "highlight.js" "event_emitter.js" "event_bus.js" "dropdown.js" "css.js" ".#css.js" "#css.js#" "../" "./")
+
+ ("/Users/outluch/code/infolek/typeahead.js/src/" (21222 27908 0 0) "typeahead/" "dataset/" "common/" ".DS_Store" "../" "./")
+
+ ("/Users/outluch/code/infolek/typeahead.js/" (21222 27989 0 0) "typeahead.js.jquery.json" "test/" "src/" "README.md" "package.json" "node_modules/" "LICENSE" "karma.conf.js" "Gruntfile.js" "dist/" "CONTRIBUTING.md" "CHANGELOG.md" "bower.json" ".travis.yml" ".jshintrc" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/outluch/code/infolek/" (21222 27343 0 0) "справка.txt" "отчет по приложению.pdf" "отчет по приложению.pages/" "доработки.txt" "typeahead.js/" "Search/" "renewsite/" "PromotionUris.csv" "newsite/" "links/" "ios/" "infodrom/" "indexed.txt" "grunt-express-angular-example/" "browserify-test/" "_books/" "_archive/" ".DS_Store" "../" "./")
+
+ ("/Users/outluch/code/infolek/renewsite/" (21221 55415 0 0) "shared/" "server/" "sass/" "redirects.json" "redirects.coffee" "public/" "package.json" "node_modules/" "infolek-redirects" "Gruntfile.coffee" "config.rb" "client/" "bower.json" ".tmp/" ".sass-cache/" ".gitignore" ".git/" ".DS_Store" ".bowerrc" "../" "./")
+
+ ("/Users/outluch/.emacs.d/ac-coffee/" (21188 51950 0 0) "snapshoot.png" "README.md" "node_modules/" "coffee-lexer.coffee" "coffee-lexer.bat" "coffee-lexer" "ac-coffee.el" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/outluch/code/infolek/renewsite/server/caches/" (21135 27116 0 0) "tradesTop.coffee" "trades.coffee" "promotions.coffee" "pharmacies.coffee" "owners.coffee" "news.coffee" "networks.coffee" "index.coffee" "geo.coffee" "galleries.coffee" "articles.coffee" "ads.coffee" "../" "./")
+
+ ("/Users/outluch/code/" (21166 11239 0 0) "Построение полноценного MVC веб-сайта на ExpressJS : Хабрахабр.pdf" "www/" "vote/" "tshirts/" "rageface.tar.gz" "rageface/" "ng/" "meteors/" "kuraz/" "iOS/" "infolek/" "express-shop 2.zip" "express-shop/" "derby3/" "browserify-articles/" "betaface/" "angular-socket-io-im/" "_study/" "_rails/" "_lisp/" "_forks/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
